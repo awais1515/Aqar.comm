@@ -1,0 +1,480 @@
+<resources>
+
+    <string name="app_name">Aqar.Com</string>
+
+    <string name="btn_login">Login</string>
+
+    <string name="btn_signup">SignUp</string>
+
+    <string name="Passwrod">Password</string>
+
+    <string name="Fname">First Name</string>
+
+    <string name="LName">Last Name</string>
+
+    <string name="Email">Email</string>
+
+    <string name="RePasword">Re-Password</string>
+
+    <string name="Phone">Phone</string>
+
+    <string name="Male">Male</string>
+
+    <string name="Female">Female</string>
+
+    <string name="title_activity_maps">Map</string>
+
+    <string name="ThanksReg">Thank You For Register With Us, And We Hope To be Happy With Us.</string>
+
+    <string name="Cont_ThanksReg">To Continue Registration \n We Care About Fully Information \n For Out Trust</string>
+
+    <string name="Cont_ThanksReg_PAss">To Create a Strong Password \n Your Password Must Contain Character And Number\'s</string>
+
+    <string name="Cont_ThanksReg_Age">We Almost Done \n To Prove Your Registeration \n We Want To Know Your Birthdate</string>
+
+    <string name="Cont_ThanksReg_Gender"> congratulations !! \n We Are Done </string>
+
+    <string name="Yourname">What\'s Your Name?</string>
+
+    <string name="Next">Next</string>
+
+    <string name="youemailandphone"> What\'s your Email and Phone?</string>
+
+    <string name="GoToCreatePassword"> Enter Your Password </string>
+
+    <string name="YourAge"> What\'s Your Birthdate? </string>
+
+    <string name="YourGender"> What\'s Your Gender? </string>
+
+    <string name="btn_Finish">Finish</string>
+
+    <string name="welcome_Login_page">Nice To See You Again !</string>
+
+    <string name="EnterAll">Enter Your Email And Password</string>
+
+    <string name="HomePage">Welcome To Aqar.Com</string>
+
+    <string name="reset_password_foreget_your_password">Reset Password - Foreget Your Password !</string>
+
+    <string name="enter_your_email">Enter Your Email</string>
+
+    <string name="for_reset_your_password_please_enter_your_email">For Reset Your Password PLease Enter Your Email</string>
+
+    <string name="Reset">Reset</string>
+
+    <string name="what_you_want_to_name_this_item">ًWhat do You Want to name this item ?</string>
+
+    <string name="example_omar_s_home">Example: Omar\'s Home</string>
+
+    <string name="first_step_n_you_must_add_title_of_item">First Step\nYou must add Title of Item</string>
+
+    <string name="now_you_must_choice_nwhat_the_type_of_item">Now, You must Choice\nWhat the type of Item.</string>
+
+    <string name="what_the_type_of_item">What The Type of Item ?</string>
+
+    <string name="GpsDisabledAlert">GPS is disabled in your device.\nWould you like to  enable it?</string>
+
+    <string name="Cancle">Cancel</string>
+
+    <string name="Enable">Enable GPS</string>
+
+    <string name="Can_Use_Location">Now You Can Use Your Location</string>
+
+    <string name="Cant_Use_Location">Oops, For use your location you must to Grant the Permission</string>
+
+    <string name="Press_Back_Again">Press Back again to Exit.</string>
+
+    <string name="Required">This field is required</string>
+
+    <string name="Rent">For Rent</string>
+
+    <string name="sale">For Sale</string>
+
+    <string name="email_not_correct">This Email Is Not Correct</string>
+
+    <string name="phone_not_correct">This Phone Is Not Correct</string>
+
+    <string name="length_pass">The Password must be at least 6 characters</string>
+
+    <string name="pass_not_match">The Password Is Not Match</string>
+
+    <string name="check_correct">Check if Correct!</string>
+
+    <string name="Send_Reset_To_Email">We have sent you instructions to reset your password per Email!</string>
+
+    <string name="Not_Sent_Reset_To_Email">Failed to send reset email!</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-4632875893742863/7776684067</string>
+
+    <string name="now_you_must_choice_nwhat_the_type_of_estate">Now, You must Choice\nWhat the type of Estate.</string>
+
+    <string name="What_Estate">What the type of Estate?</string>
+
+    <string name="a">Apartment</string>
+
+    <string name="Villa">Villa</string>
+
+    <string name="floor">Floor</string>
+
+    <string name="farm">Farm</string>
+
+    <string name="office">Office</string>
+
+    <string name="shops">Shops</string>
+
+    <string name="stores">Stores</string>
+
+    <string name="land">Land</string>
+
+    <string name="example_8_years">Example: 8 years.</string>
+
+    <string name="how_old_is_the_real_estate">How Old Is The Real Estate?</string>
+
+    <string name="for_more_view_of_your_item_you_must_enter_information_about_item_data">For more View of your Item, You must enter information about item data.</string>
+
+    <string name="example_190_meter">Example: 190² meter</string>
+
+    <string name="how_much_area_of_your_item">How Much Area of Your Item?</string>
+
+    <string name="example_95">Example: 95</string>
+
+    <string name="example_3">Example: 3</string>
+
+    <string name="what_is_the_floor_number">What is the Floor Number ?</string>
+
+    <string name="what_is_your_estate_number">What is Your Estate Number ?</string>
+
+    <string name="example_tarek_street">Example: Tarek Street</string>
+
+    <string name="import_from_gallery">import from Gallery</string>
+
+    <string name="upload_images_about_your_item">Upload Images About Your Item</string>
+
+    <string name="how_much_price_of_item">How Much Price Of Item ?</string>
+
+    <string name="example_45000_jd">Example: 45000 JD</string>
+
+    <string name="Alert_Null_Images">Please upload Images About Your Item</string>
+
+    <string name="you_can_add_description_about_your_item">You Can Add Description About Your Item</string>
+
+    <string name="my_item_is_so_sweet_ni_hope_to_see_you">Room: 4 Room. \n kitchen: 4x5 meter. </string>
+
+    <string name="Add_ITEm">Add Item</string>
+
+    <string name="the_price_in_jordanian_dinnar">* The Price In Jordanian Dinnar</string>
+
+    <string name="loading_information">Loading Information ..</string>
+
+    <string name="area"><b>Area : </b></string>
+
+    <string name="age">Age : </string>
+
+    <string name="sales">Sale : </string>
+
+    <string name="streets">Street : </string>
+
+    <string name="price">price : </string>
+
+    <string name="numberItem">Number of Item : </string>
+
+    <string name="Floor">Floor of Item : </string>
+
+    <string name="changemap">Change map Type</string>
+
+    <string name="Help_Page">Help Page.</string>
+
+    <string name="titleitem">Title : </string>
+
+    <string name="placeitem">Place : </string>
+
+    <string name="TypeItem">Type : </string>
+
+    <string name="descItem">Description : </string>
+
+    <string name="Error_101">Sorry , We have Some Error Of This Item.</string>
+
+    <string name="change">Change</string>
+
+    <string name="new_password">New Password</string>
+
+    <string name="new_re_pasword">New Re-Pasword</string>
+
+    <string name="old_pass">Old Password</string>
+
+    <string name="are_you_sure_you_want_to_deactivate_your_account">Are You Sure You Want To Deactivate Your Account ?</string>
+
+    <string name="are_you_sure_you_want_to_delete_all_your_item">Are You Sure You Want To Delete All Your Item ?</string>
+
+    <string name="the_application_is_not_responsible_for_information_that_is_entered_by_the_user">The application is not responsible for information that is entered by the user</string>
+
+    <string name="its_so_important_to_set_your_picture">Its So Important To Set Your Picture</string>
+
+    <string name="upload_your_picture">Upload Your Picture</string>
+
+    <string name="import_new_images">Import New Images</string>
+
+    <string name="old_item">Old Item :</string>
+
+    <string name="type_sale">Type Sale :</string>
+
+    <string name="type_item_spinner">Type Item :</string>
+
+    <string name="what_is_street_name_of_your_item">What is street name of your ITem?</string>
+
+    <string name="what_is_place_of_your_item">Where the City of your item ?</string>
+
+    <string name="done">Done.. ‼</string>
+
+    <string name="images_of_item">Images Of Item</string>
+
+    <string name="edit_item">Edit Item</string>
+
+    <string name="dash">ــــ</string>
+
+    <string name="city">City :</string>
+
+    <string name="download_information">Download Information..</string>
+
+    <string name="show_item">Show Item</string>
+
+    <string name="deactivate">Deactivate</string>
+
+    <string name="delete_all_item">Delete All Item</string>
+
+    <string name="violent">Violent</string>
+
+    <string name="update">Update</string>
+
+    <string name="min">Min</string>
+
+    <string name="max">Max</string>
+
+    <string name="filter">Filter</string>
+
+    <string name="this_item_s_for_another_customer">** This Item\'s For Another Customer **</string>
+
+    <string name="your_items_will_not_show_for_you">* Your Items will not Show For You *</string>
+
+    <string name="no_item_found">No Item Found .. :(</string>
+
+    <string name="item">Item</string>
+
+    <string name="my_profile">My Profile</string>
+
+    <string name="edit_profile">Edit Profile</string>
+
+    <string name="change_password">Change Password</string>
+
+    <string name="deactivate_account">Deactivate Account</string>
+
+    <string name="logout_account">LogOut Account</string>
+
+    <string name="generate_item">Generate Item</string>
+
+    <string name="generate_user">Generate User</string>
+
+    <string name="get_data">get data ..</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="get_title">get Title</string>
+
+    <string name="get_date">get Date</string>
+
+    <string name="call">Call</string>
+
+    <string name="when_you_want_to_call_with_saller_just_press_this_button_to_call_him">when you want to call with saller , just press this button to call him.</string>
+
+    <string name="remove">Remove</string>
+
+    <string name="to_remove_your_item_you_have_added_it">To Remove Your ITem You have Added It.</string>
+
+    <string name="sign_out">Sign Out</string>
+
+    <string name="to_sign_out_from_you_account">To Sign out From You Account.</string>
+
+    <string name="change_map_type">Change Map Type</string>
+
+    <string name="to_change_map_type_from_hybrid_to_satallite_for_best_view_and_more_information_about_place_s_is_around_item">To Change MAp Type From Hybrid To Satallite. For Best View And More Information about place\'s is around item.</string>
+
+    <string name="request">Request</string>
+
+    <string name="to_request_saller_to_inform_you_want_this_item_and_you_want_to_choose_the_best_date_to_see_it">To Request Saller To Inform You Want This ITem and You Want To Choose the best date to see it.</string>
+
+    <string name="profile">Profile</string>
+
+    <string name="to_view_the_seller_profile_you_click_on_this_button_and_it_will_show_the_seller_details">To View the seller profile you click on this button and it will show the seller details.</string>
+
+    <string name="to_view_the_filter_you_click_on_the_button_showing_above_on_the_map_activity">To View the Filter you click on the button showing above on the map activity.</string>
+
+    <string name="the_end">The End.</string>
+
+    <string name="marker_of_user">Marker Of User</string>
+
+    <string name="this_is_marker_of_another_user_have_added_it">This is marker of another user have added it.</string>
+
+    <string name="marker_of_you">Marker Of You</string>
+
+    <string name="this_is_your_marker_and_its_show_to_another_user_as_green_marker">This is your marker and its show to another user as green marker.</string>
+
+    <string name="first_step_go_to_you_item_location_you_can_use_location_button_to_go_to_your_location_top_right_of_map">First step: Go To You Item Location, You can use Location Button to go to your location (Top Right of Map ).</string>
+
+    <string name="second_step_when_you_go_to_item_location_make_sure_that_is_your_location_by_swipe_the_map_type_from_button_in_buttom_left">second step: when you go to item location , make sure that is your location by swipe the Map type from button in buttom left.</string>
+
+    <string name="third_step_you_can_see_your_item_as_clear">Third Step: You Can See Your Item as clear.</string>
+
+    <string name="fourth_step_hold_click_at_your_item_location">Fourth step: Hold Click at your item location.</string>
+
+    <string name="fifth_step_press_the_button_add_that_shows_at_top_left">Fifth step: press the button add ( + ) that shows at top left.</string>
+
+    <string name="sixth_step_fill_your_information_to_done">sixth step: Fill Your Information To Done.</string>
+
+    <string name="_1">1 :</string>
+
+    <string name="click_on_the_item_you_want_to_delete_it">click on the Item You Want To Delete It</string>
+
+    <string name="_2">2 :</string>
+
+    <string name="click_on_delete_button">Click on Delete Button.</string>
+
+    <string name="_3">3 :</string>
+
+    <string name="click_yes_if_you_are_sure_to_delete_it">Click Yes if You Are Sure To Delete It.</string>
+
+    <string name="click_on_the_item_you_want_to_request_it">click on the Item You Want To Request It</string>
+
+    <string name="click_on_request_button">Click on Request Button.</string>
+
+    <string name="enter_pass">Enter Your Password</string>
+
+    <string name="ok">OK</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="deleted">Deleted !</string>
+
+    <string name="not_correct">The Password Is Not Correct!</string>
+
+    <string name="deletedi">Item\'s Deleted</string>
+
+    <string name="deletenotsucces">Delete ITem Not Successful !</string>
+
+    <string name="errornodata">Error, no data</string>
+
+    <string name="wait">Wait To Upload Item Picture.</string>
+
+    <string name="doneupdateimage">Item Image IS Updated.</string>
+
+    <string name="errorupdateimage">Error .. Images Dont Uploaded, Check your internet Setting.</string>
+
+    <string name="doneupdateinformation">Done, Thank you For Edit Your Information</string>
+
+    <string name="errror_get_data">Error Get Data, Try Again Later</string>
+
+    <string name="deletd">Deleted</string>
+
+    <string name="error_tryagian">Error, Try Again Later</string>
+
+    <string name="sorry">Sorry, Error to get data , Try Again Later</string>
+
+    <string name="street">Street :</string>
+
+    <string name="area_">Area :</string>
+
+    <string name="price_">Price :</string>
+
+    <string name="descnull">Description : Null</string>
+
+    <string name="check_internet">Check Internet</string>
+
+    <string name="alert">Alert</string>
+
+    <string name="areyousuretodelete">Are You Sure You Want To Delete</string>
+
+    <string name="yes">Yes</string>
+
+    <string name="deleted_">Deleted !</string>
+
+    <string name="errordeleteitem">Error Delete Item.</string>
+
+    <string name="name">Name : </string>
+
+    <string name="gender">Gender :</string>
+
+    <string name="email">Email :</string>
+
+    <string name="phone">Phone :</string>
+
+    <string name="itemof">Item of</string>
+
+    <string name="copied">Copied</string>
+
+    <string name="areyousuretologout">Are You Sure You Want To Log Out From Aqar.com ?</string>
+
+    <string name="no">No</string>
+
+    <string name="donttuchyoumarkerwithouttitle">waiting you to add item , if this your corrent location of item , press the button add</string>
+
+    <string name="error_andwewillnotfixitbecousewearegraduate">Error Get Data , We Will Fix it Soon</string>
+
+    <string name="task_not_succesfull">Task is not Successful</string>
+
+    <string name="itemnotfound">No Item Found.</string>
+
+    <string name="setting">Setting</string>
+
+    <string name="favoitem">My Favorite Item</string>
+
+    <string name="Deactivated">Deactivated</string>
+
+    <string name="years">Years</string>
+
+    <string name="jd">JD</string>
+
+    <string name="thisITem">This Item has</string>
+
+    <string name="views">View</string>
+    <string name="comingSoon">Coming Soon</string>
+    <string name="settingapplicationandacount">Setting Application And Account</string>
+    <string name="passReq">The Password is Required !</string>
+
+
+    <string-array name="Gender_Array">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="type_sale">
+        <item>For Rent</item>
+        <item>For Sale</item>
+    </string-array>
+
+    <string-array name="type_item">
+        <item>Apartment</item>
+        <item>Villa</item>
+        <item>Floor</item>
+        <item>Farm</item>
+        <item>Office</item>
+        <item>Shops</item>
+        <item>Stores</item>
+        <item>Land</item>
+    </string-array>
+
+    <string-array name="City_Array">
+        <item>Amman</item>
+        <item>Zarqa</item>
+        <item>Irbid</item>
+        <item>Aqaba</item>
+        <item>as-Salt</item>
+        <item>Jerash</item>
+        <item>Ma'an</item>
+        <item>at-Tafila</item>
+        <item>al-Mafraq</item>
+        <item>al-Karak</item>
+        <item>Ajloun</item>
+    </string-array>
+
+
+</resources>
+

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:hardwareAccelerated="false"
+    android:largeHeap="true"
+    android:orientation="vertical">
+
+    <ScrollView
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="UselessParent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200sp"
+                android:layout_marginTop="20sp"
+                android:background="@color/colorPrimaryDark"
+                android:src="@drawable/f"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="40sp"
+                android:fontFamily="casual"
+                android:text="@string/first_step_go_to_you_item_location_you_can_use_location_button_to_go_to_your_location_top_right_of_map"
+                android:textAlignment="center"
+                />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200sp"
+                android:layout_marginTop="20sp"
+                android:background="@color/colorPrimaryDark"
+                android:src="@drawable/s"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="40sp"
+                android:fontFamily="casual"
+                android:text="@string/second_step_when_you_go_to_item_location_make_sure_that_is_your_location_by_swipe_the_map_type_from_button_in_buttom_left"
+                android:textAlignment="center"
+                />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200sp"
+                android:layout_marginTop="20sp"
+                android:background="@color/colorPrimaryDark"
+                android:src="@drawable/t"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="40sp"
+                android:fontFamily="casual"
+                android:text="@string/third_step_you_can_see_your_item_as_clear"
+                android:textAlignment="center"
+                />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200sp"
+                android:layout_marginTop="20sp"
+                android:background="@color/colorPrimaryDark"
+                android:src="@drawable/fourth"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="40sp"
+                android:fontFamily="casual"
+                android:text="@string/fourth_step_hold_click_at_your_item_location"
+                android:textAlignment="center"
+                />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200sp"
+                android:layout_marginTop="20sp"
+                android:background="@color/colorPrimaryDark"
+                android:src="@drawable/fifth"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="40sp"
+                android:fontFamily="casual"
+                android:text="@string/fifth_step_press_the_button_add_that_shows_at_top_left"
+                android:textAlignment="center"
+                />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200sp"
+                android:layout_marginTop="20sp"
+                android:background="@color/colorPrimaryDark"
+                android:src="@drawable/sesxth"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="40sp"
+                android:fontFamily="casual"
+                android:text="@string/sixth_step_fill_your_information_to_done"
+                android:textAlignment="center"
+                />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

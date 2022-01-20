@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:hardwareAccelerated="false"
+    android:largeHeap="true"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbarStyle="outsideOverlay"
+        android:visibility="visible">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10sp"
+                android:layout_marginTop="10sp"
+                android:fontFamily="casual"
+                android:text="@string/marker_of_user"
+                android:textColor="@color/colorAccent"
+                android:textSize="21sp"
+                android:textStyle="bold"
+                />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="90sp"
+                android:layout_marginTop="40sp"
+                android:background="@color/colorAccent"
+                android:src="@drawable/marker_saller"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40sp"
+                android:textStyle="bold"
+                android:fontFamily="casual"
+                android:text="@string/this_is_marker_of_another_user_have_added_it"
+                android:textAlignment="center"
+                />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginTop="10sp"
+                android:background="@android:color/black"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10sp"
+                android:layout_marginTop="10sp"
+                android:fontFamily="casual"
+                android:text="@string/marker_of_you"
+                android:textColor="@color/colorAccent"
+                android:textSize="21sp"
+                android:textStyle="bold"
+                />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="90sp"
+                android:layout_marginTop="40sp"
+                android:background="@color/colorAccent"
+                android:src="@drawable/marker_me"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40sp"
+                android:textStyle="bold"
+                android:fontFamily="casual"
+                android:text="@string/this_is_your_marker_and_its_show_to_another_user_as_green_marker"
+                android:textAlignment="center"
+                />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginTop="10sp"
+                android:background="@android:color/black"/>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

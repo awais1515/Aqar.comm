@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "540165668640",
+    "firebase_url": "https://aqarcom-gp2.firebaseio.com",
+    "project_id": "aqarcom-gp2",
+    "storage_bucket": "aqarcom-gp2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540165668640:android:d61a77785237322e",
+        "android_client_info": {
+          "package_name": "com.gp2.omar.aqarcom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540165668640-3qvc97b6igpia7grtl5qttbguksk9c3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gp2.omar.aqarcom",
+            "certificate_hash": "5cd13897d773aa257016ac65c8430cc01babb406"
+          }
+        },
+        {
+          "client_id": "540165668640-h0m33voutv5qm9b8eaftlm6dqpjfp3vh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiSVZmaNDhZmztLmgzTxWpUvA8-fiIwF4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540165668640-h0m33voutv5qm9b8eaftlm6dqpjfp3vh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

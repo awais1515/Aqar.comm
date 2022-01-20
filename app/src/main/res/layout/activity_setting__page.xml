@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.gp2.omar.aqarcom.Setting_Page">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="5sp"
+                android:background="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:onClick="ShowProfile"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="70sp"
+                    android:layout_height="70sp"
+                    android:layout_marginStart="10sp"
+                    android:layout_weight="0"
+                    app:srcCompat="@drawable/ic_action_profile"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:fontFamily="casual"
+                    android:paddingTop="15sp"
+                    android:text="@string/my_profile"
+                    android:textAlignment="center"
+                    android:textSize="30sp"
+                    android:textStyle="bold"/>
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginTop="5sp"
+                android:background="@android:color/black"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="5sp"
+                android:background="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:onClick="GoTOEdit"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="70sp"
+                    android:layout_height="70sp"
+                    android:layout_marginStart="10sp"
+                    android:layout_weight="0"
+                    app:srcCompat="@drawable/ic_action_editprofile"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:fontFamily="casual"
+                    android:paddingTop="15sp"
+                    android:text="@string/edit_profile"
+                    android:textAlignment="center"
+                    android:textSize="30sp"
+                    android:textStyle="bold"/>
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginTop="5sp"
+                android:background="@android:color/black"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="5sp"
+                android:background="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:onClick="ChangepassIntent"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="70sp"
+                    android:layout_height="70sp"
+                    android:layout_marginStart="10sp"
+                    android:layout_weight="0"
+                    app:srcCompat="@drawable/ic_action_changepass"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:fontFamily="casual"
+                    android:paddingTop="15sp"
+                    android:text="@string/change_password"
+                    android:textAlignment="center"
+                    android:textSize="30sp"
+                    android:textStyle="bold"/>
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginTop="5sp"
+                android:background="@android:color/black"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="5sp"
+                android:background="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:onClick="deleteall"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="70sp"
+                    android:layout_height="70sp"
+                    android:layout_marginStart="10sp"
+                    android:layout_weight="0"
+                    app:srcCompat="@drawable/ic_action_deleteallitem"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:fontFamily="casual"
+                    android:paddingTop="15sp"
+                    android:text="@string/delete_all_item"
+                    android:textAlignment="center"
+                    android:textSize="30sp"
+                    android:textStyle="bold"/>
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginTop="5sp"
+                android:background="@android:color/black"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="5sp"
+                android:background="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:onClick="Deactivate"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="70sp"
+                    android:layout_height="70sp"
+                    android:layout_marginStart="10sp"
+                    android:layout_weight="0"
+                    app:srcCompat="@drawable/ic_action_deactivate"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:fontFamily="casual"
+                    android:paddingTop="15sp"
+                    android:text="@string/deactivate_account"
+                    android:textAlignment="center"
+                    android:textSize="30sp"
+                    android:textStyle="bold"/>
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginTop="5sp"
+                android:background="@android:color/black"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="5sp"
+                android:background="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:onClick="logout"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="70sp"
+                    android:layout_height="70sp"
+                    android:layout_marginStart="10sp"
+                    android:layout_weight="0"
+                    app:srcCompat="@drawable/ic_action_logout"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:fontFamily="casual"
+                    android:paddingTop="15sp"
+                    android:text="@string/logout_account"
+                    android:textAlignment="center"
+                    android:textSize="30sp"
+                    android:textStyle="bold"/>
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginTop="5sp"
+                android:background="@android:color/black"/>
+
+            <com.google.android.gms.ads.AdView
+                xmlns:ads="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/adView5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="0sp"
+                ads:adSize="SMART_BANNER"
+                ads:adUnitId="@string/banner_ad_unit_id"/>
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+</LinearLayout>
+

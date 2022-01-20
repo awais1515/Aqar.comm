@@ -1,0 +1,483 @@
+<resources>
+
+    <string name="app_name">عقاركم</string>
+
+    <string name="btn_login">لدي حساب بالفعل</string>
+
+    <string name="btn_signup">مستخدم جديد</string>
+
+    <string name="Passwrod">كلمة السر</string>
+
+    <string name="Fname">الإسم الإول</string>
+
+    <string name="LName">الإسم الأخير</string>
+
+    <string name="Email">البريد الإلكتروني</string>
+
+    <string name="RePasword">إعادة كلمة المرور</string>
+
+    <string name="Phone">الهاتف</string>
+
+    <string name="Male">ذكر</string>
+
+    <string name="Female">أنثى</string>
+
+    <string name="title_activity_maps">الخارطة</string>
+
+    <string name="ThanksReg">شكرا لك لتسجيلك معنا نرجو ان تكون سعيدا معنا</string>
+
+    <string name="Cont_ThanksReg">لإستكمال إجرائات التسجيل \n نحن نهتم للحصول على كامل البيانات \n و ذلك لنشر الثقة</string>
+
+    <string name="Cont_ThanksReg_PAss">لإنشاء كلمة مرور قوية \n يجب ان تحتوي على حروف كبيرة و صغيرة و ارقام.</string>
+
+    <string name="Cont_ThanksReg_Age">إنتهينا تقريبا \n لإثبات تسجيلك \n يجب تزويدنا بتاريخ ميلادك</string>
+
+    <string name="Cont_ThanksReg_Gender">مبارك \n لقد إنتهينا</string>
+
+    <string name="Yourname">ما إسمك ؟</string>
+
+    <string name="Next">التالي</string>
+
+    <string name="youemailandphone">ماهو البريد الالكتروني الخاص بك و رقم الهاتف ؟</string>
+
+    <string name="GoToCreatePassword">أدخل كلمة المرور</string>
+
+    <string name="YourAge">ماهو تاريخ ميلادك ؟</string>
+
+    <string name="YourGender">ما هو جنسك ؟</string>
+
+    <string name="btn_Finish">إنتهاء</string>
+
+    <string name="welcome_Login_page">من الجميل رؤيتك مرة اخرى !</string>
+
+    <string name="EnterAll">أدخل البريد الإلكتروني الخاص بك و كلمة المرور</string>
+
+    <string name="HomePage">أهلا بك في عقاركم</string>
+
+    <string name="reset_password_foreget_your_password">إعادة تعيين كلمة المرور - نسيت كلمة المرور الخاص بك !</string>
+
+    <string name="enter_your_email">أدخل البريد الإلكتروني الخاص بك</string>
+
+    <string name="for_reset_your_password_please_enter_your_email">لإعادة تعيين كلمة المرور - الرجاء إدخال البريد الإلكتروني</string>
+
+    <string name="Reset">إعادة تعيين</string>
+
+    <string name="what_you_want_to_name_this_item">ماذا تريد تسمية العقار ؟</string>
+
+    <string name="example_omar_s_home">مثال : منزل عمر</string>
+
+    <string name="first_step_n_you_must_add_title_of_item">الخطوة الأولى \n يجب عليك تسمية العقار</string>
+
+    <string name="now_you_must_choice_nwhat_the_type_of_item">الأن \n يجب عليك إختيار نوع العقار</string>
+
+    <string name="what_the_type_of_item">ماهو نوع العقار ؟</string>
+
+    <string name="GpsDisabledAlert">تحديد الموقع غير مفعلة لديك \n هل تريد تفعيلها ؟</string>
+
+    <string name="Cancle">إلغاء</string>
+
+    <string name="Enable">تفعيل تحديد الموقع</string>
+
+    <string name="Can_Use_Location">الأن يمكنك إستخدام تحديد الموقع</string>
+
+    <string name="Cant_Use_Location">أوه , لإستخدام تحديد المواقع , يجب عليك إعطائنا الصلاحية</string>
+
+    <string name="Press_Back_Again">إكبس مرة أخرى للخروج</string>
+
+    <string name="Required">هذه الخانة مطلوبة</string>
+
+    <string name="Rent">For Rent</string>
+
+    <string name="sale">For Sale</string>
+
+    <string name="email_not_correct">هذا البريد الإلكتروني غير صحيح</string>
+
+    <string name="phone_not_correct">هذا الهاتف غير صحيح</string>
+
+    <string name="length_pass">كلمة المرور يجب ان تحتوي على الاقل 6 حروف</string>
+
+    <string name="pass_not_match">كلمة المرور غير متطابق</string>
+
+    <string name="check_correct">Check if Correct!</string>
+
+    <string name="Send_Reset_To_Email">لقد أرسلنا إليك تعليمات لإعادة تعيين كلمة المرور الخاص  لبريدك الإلكتروني!</string>
+
+    <string name="Not_Sent_Reset_To_Email">فشل إرسال رسالة إعادة تعيين البريد الإلكتروني!</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-4632875893742863/7776684067</string>
+
+    <string name="now_you_must_choice_nwhat_the_type_of_estate">الأن يجب عليك \n إختيار نوع العقار ؟</string>
+
+    <string name="What_Estate">ما نوع العقار ؟</string>
+
+    <string name="a">Apartment</string>
+
+    <string name="Villa">Villa</string>
+
+    <string name="floor">Floor</string>
+
+    <string name="farm">Farm</string>
+
+    <string name="office">Office</string>
+
+    <string name="shops">Shops</string>
+
+    <string name="stores">Stores</string>
+
+    <string name="land">Land</string>
+
+    <string name="example_8_years">مثال : 8 سنوات</string>
+
+    <string name="how_old_is_the_real_estate">كم عمر العقار الخاص بك ؟</string>
+
+    <string name="for_more_view_of_your_item_you_must_enter_information_about_item_data">لمشاهدات أكثر و أفضل , يجب عليك ادخال امزيد من المعلومات حول العقار الخاص بك</string>
+
+    <string name="example_190_meter">مثال : 190² متر</string>
+
+    <string name="how_much_area_of_your_item">كم مساحة العقار الخاص بك ؟</string>
+
+    <string name="example_95">مثال : 95</string>
+
+    <string name="example_3">مثال : 3</string>
+
+    <string name="what_is_the_floor_number">في أي طابق الخاص للعقار ؟</string>
+
+    <string name="what_is_your_estate_number">كم رقم العقار ( المبنى ) الخاص بك ؟</string>
+
+    <string name="example_tarek_street">مثال : طريق طارق</string>
+
+    <string name="import_from_gallery">إستيراد من الأستوديو</string>
+
+    <string name="upload_images_about_your_item">رفع صورة حول العقار</string>
+
+    <string name="how_much_price_of_item">كم سعر عقارك ؟</string>
+
+    <string name="example_45000_jd">مثال : 45000 دينار اردني</string>
+
+    <string name="Alert_Null_Images">الرجاء رقع صورة حول العقار الخاص بك</string>
+
+    <string name="you_can_add_description_about_your_item">يمكنك اضافة وصف حول العقار الخاص بك</string>
+
+    <string name="my_item_is_so_sweet_ni_hope_to_see_you">الغرف : 4 غرف. \n المطبخ : 4X5 متر. </string>
+
+
+    <string name="Add_ITEm">إضافة عقار</string>
+
+    <string name="the_price_in_jordanian_dinnar">*العملة هو الدينار الأردني</string>
+
+    <string name="loading_information">تحميل المعلومات ..</string>
+
+    <string name="area"><b>المساحة : </b></string>
+
+    <string name="age">العمر : </string>
+
+    <string name="sales">نوع البيع : </string>
+
+    <string name="streets">الشارع : </string>
+
+    <string name="price">السعر : </string>
+
+    <string name="numberItem">رقم العقار : </string>
+
+    <string name="Floor">طابق العقار : </string>
+
+    <string name="changemap">تغيير نوع الخارطة</string>
+
+    <string name="Help_Page">صفحة المساعدة</string>
+
+    <string name="titleitem">العنوان : </string>
+
+    <string name="placeitem">المدينة : </string>
+
+    <string name="TypeItem">نوع العقار : </string>
+
+    <string name="descItem">الوصف : </string>
+
+    <string name="Error_101">نأسف , لقد حصل أخطاء حول هذه العقار</string>
+
+    <string name="change">تغيير</string>
+
+    <string name="new_password">كلمة المرور الجديدة</string>
+
+    <string name="new_re_pasword">اعادة كلمة المرور الجديدة</string>
+
+    <string name="old_pass">كلمة المرور القديمة</string>
+
+    <string name="are_you_sure_you_want_to_deactivate_your_account">هل أنت متاكد من أنك تريد الغاء الحساب الخاص بك ؟</string>
+
+    <string name="are_you_sure_you_want_to_delete_all_your_item">هل انت متاكد لحذف جميع العقار الخاص بك ؟</string>
+
+    <string name="the_application_is_not_responsible_for_information_that_is_entered_by_the_user">The application is not responsible for information that is entered by the user</string>
+
+    <string name="its_so_important_to_set_your_picture">من المهم رفع صوررتك</string>
+
+    <string name="upload_your_picture">رفع صورتك</string>
+
+    <string name="import_new_images">اسخراج صورة من الأستوديو </string>
+
+    <string name="old_item">عمر العقار : </string>
+
+    <string name="type_sale">نوع البيع : </string>
+
+    <string name="type_item_spinner">نوع العقار : </string>
+
+    <string name="what_is_street_name_of_your_item">ماهو إسم الشارع القريبة من العقار ؟</string>
+
+    <string name="what_is_place_of_your_item">في أي مدينة توجد العقار الخاص بك ؟</string>
+
+    <string name="done">إنتهى .. !</string>
+
+    <string name="images_of_item">صورة العقار</string>
+
+    <string name="edit_item">تعديل العقار</string>
+
+    <string name="dash">ــــ</string>
+
+    <string name="city">المدينة :</string>
+
+    <string name="download_information">تحميل المعلومات ..</string>
+
+    <string name="show_item">عرض العقار</string>
+
+    <string name="deactivate">الغاء الحساب</string>
+
+    <string name="delete_all_item">حذف جميع العقارات</string>
+
+    <string name="violent">Violent</string>
+
+    <string name="update">تحديث</string>
+
+    <string name="min">الحد الأدنى</string>
+
+    <string name="max">الحد ألاعلى</string>
+
+    <string name="filter">فلتر</string>
+
+    <string name="this_item_s_for_another_customer">** هذه العقارات للمستخدمين الاخرون **</string>
+
+    <string name="your_items_will_not_show_for_you">* عقاراتك لن تدرج في القائمة الخاص بك *</string>
+
+    <string name="no_item_found">لم يتم العثور على عقار .. :(</string>
+
+    <string name="item">عقار</string>
+
+    <string name="my_profile">صفحتي الشخصية</string>
+
+    <string name="edit_profile">تعديل الصفحة الشخصية</string>
+
+    <string name="change_password">تغيير كلمة المرور</string>
+
+    <string name="deactivate_account">إلغاء الحساب</string>
+
+    <string name="logout_account">تسجيل الخروج</string>
+
+    <string name="generate_item">عرض العقارات</string>
+
+    <string name="generate_user">عرض المستخدمين</string>
+
+    <string name="get_data">جلب البيانات ..</string>
+
+    <string name="delete">حذف</string>
+
+    <string name="get_title">جلب العنوان</string>
+
+    <string name="get_date">جلب التاريخ</string>
+
+    <string name="call">إتصال</string>
+
+    <string name="when_you_want_to_call_with_saller_just_press_this_button_to_call_him">عندما تريد الإتصال مع البائع , فقط اضغط على هذا الزر</string>
+
+    <string name="remove">حذف</string>
+
+    <string name="to_remove_your_item_you_have_added_it">لحذف العقار التي قمت بإضافتها من قبل</string>
+
+    <string name="sign_out">تسجيل الخروج</string>
+
+    <string name="to_sign_out_from_you_account">لتسجيل الخروج من الحساب الخاص بك</string>
+
+    <string name="change_map_type">تغير نوع الخارجطة</string>
+
+    <string name="to_change_map_type_from_hybrid_to_satallite_for_best_view_and_more_information_about_place_s_is_around_item">لتغير الخارطة من نوع الى أخر , و ذلك لتحسين الجودةو الصورة</string>
+
+    <string name="request">طلب العقار</string>
+
+    <string name="to_request_saller_to_inform_you_want_this_item_and_you_want_to_choose_the_best_date_to_see_it">لطلب من المستخدم انك بحاجة لرؤية العقار و تحديد افضل وقت و التاريخ المناسب لديكما</string>
+
+    <string name="profile">الصفحة الشخصية</string>
+
+    <string name="to_view_the_seller_profile_you_click_on_this_button_and_it_will_show_the_seller_details">لعرض الصفحة الشخصية الخاصة بالبائع و عرض كامل المعلومات عنه.</string>
+
+    <string name="to_view_the_filter_you_click_on_the_button_showing_above_on_the_map_activity">للذهاب الى صفحة الفلتر.</string>
+
+    <string name="the_end">النهاية.</string>
+
+    <string name="marker_of_user">العلامة الخاصة للمستحدمين الأخرين</string>
+
+    <string name="this_is_marker_of_another_user_have_added_it">هذه العلامة للمستخدمين الأخرين التي تمت إضافتها من قبلهم.</string>
+
+    <string name="marker_of_you">العلامة الخاصة بك</string>
+
+    <string name="this_is_your_marker_and_its_show_to_another_user_as_green_marker">هذه العلامة تخص عقاراتك و تظهر عند المستخدمين الأخرين باللون الأخصر</string>
+
+    <string name="first_step_go_to_you_item_location_you_can_use_location_button_to_go_to_your_location_top_right_of_map">الخطوة الأولى : إذهب إلى موقع العقار , يمكنك إستخدام زر الموقع الحالي الموجود في اعلى الصفحة.</string>
+
+    <string name="second_step_when_you_go_to_item_location_make_sure_that_is_your_location_by_swipe_the_map_type_from_button_in_buttom_left">الخطوة الثانية : عند الذهاب الى موقع العقار في الخارطة , تأكد من أن تلك هي الموقع المناسب عبر خاصية خارطة الستالايت كما في الصورة.</string>
+
+    <string name="third_step_you_can_see_your_item_as_clear">الخطوة الثالثة : يمكنك رؤية الخارطة و العقار الخاص بك بكل وضوح</string>
+
+    <string name="fourth_step_hold_click_at_your_item_location">الخطوة الرابعة : إضغط مطولا على موقع العقار الخاص بك</string>
+
+    <string name="fifth_step_press_the_button_add_that_shows_at_top_left">الخطوة الخامسة : إضغط على زر الإضافة ( + ) الموجود اعلى الصفحة على اليمين</string>
+
+    <string name="sixth_step_fill_your_information_to_done">الخطوة السادسة : إملئ البيانات و الخانات للإنتهاء و النشر</string>
+
+    <string name="_1">1 :</string>
+
+    <string name="click_on_the_item_you_want_to_delete_it">إضغط على العقار المراد حذفه</string>
+
+    <string name="_2">2 :</string>
+
+    <string name="click_on_delete_button">إضغط على زر الحذف</string>
+
+    <string name="_3">3 :</string>
+
+    <string name="click_yes_if_you_are_sure_to_delete_it">إضغط نعم إذا كنت متأكد من أنك تريد حذفه.</string>
+
+    <string name="click_on_the_item_you_want_to_request_it">إضغط على العقار المراد طلبه</string>
+
+    <string name="click_on_request_button">إضغط على زر الطلب</string>
+
+    <string name="enter_pass">أدخل كلمة المرور</string>
+
+    <string name="ok">موافق</string>
+
+    <string name="cancel">إلغاء</string>
+
+    <string name="deleted">حذفت !</string>
+
+    <string name="not_correct">كلمة المرور غير متطابق</string>
+
+    <string name="deletedi">تم حذف العقار</string>
+
+    <string name="deletenotsucces">حذف العقار لم يتم بنجاح !</string>
+
+    <string name="errornodata">مشكلة , لا توجد بيانات</string>
+
+    <string name="wait">في إنتظار رفع الصورة.</string>
+
+    <string name="doneupdateimage">تم تحديث الصورة.</string>
+
+    <string name="errorupdateimage">مشكلة , لم يتم رقع الصورة , الرجاء فحص الإنترنت</string>
+
+    <string name="doneupdateinformation">تم , نشكرك لتحديث و تعديل المعلومات</string>
+
+    <string name="errror_get_data">نأسف , مشكلة في جلب البيانات , حاول مرة أخرى</string>
+
+    <string name="deletd">حذفت</string>
+
+    <string name="error_tryagian">مشكلة , حاول مرة اخرى</string>
+
+    <string name="sorry">نأسف , مشكلة في جلب البيانات , حاول مرة أخرى</string>
+
+    <string name="street">الشارع :</string>
+
+    <string name="area_">المساحة :</string>
+
+    <string name="price_">السعر :</string>
+
+    <string name="descnull">الوصف : لا يوجد</string>
+
+    <string name="check_internet">إفحص الإنترنت</string>
+
+    <string name="alert">تحذير</string>
+
+    <string name="areyousuretodelete">هل أنت متأكد من الحذف ؟</string>
+
+    <string name="yes">نعم</string>
+
+    <string name="deleted_">حذفت !</string>
+
+    <string name="errordeleteitem">مشكلة في حذف العقار</string>
+
+    <string name="name">الإسم : </string>
+
+    <string name="gender">الجنس :</string>
+
+    <string name="email">البريد الإلكتروني :</string>
+
+    <string name="phone">الهاتف :</string>
+
+    <string name="itemof">عقارات</string>
+
+    <string name="copied">نسخ</string>
+
+    <string name="areyousuretologout">هل انت متاكد من تسجيل الخروج من عقاركم ؟</string>
+
+    <string name="no">لا</string>
+
+    <string name="donttuchyoumarkerwithouttitle">أنتظرك لاضافة عقارك , إذا كان هذا الموقع الصحيح لعقارك , اضغظ على زر الاضافة في الأعلى</string>
+
+    <string name="error_andwewillnotfixitbecousewearegraduate">مشكلة في جلب البيانات , نعدك بإصلاحها عن قريب</string>
+
+    <string name="task_not_succesfull">العملية لم تتم</string>
+
+    <string name="itemnotfound">لم يتم العثور على عقار</string>
+
+    <string name="setting">الإعدادات</string>
+
+    <string name="favoitem">مفضلتي</string>
+
+    <string name="Deactivated">تم إلغاء الحساب</string>
+
+    <string name="years">سنة</string>
+
+    <string name="jd">دينار أردني</string>
+
+    <string name="thisITem">هذا الإعلان حصل على </string>
+
+    <string name="views"> مشاهدة</string>
+
+    <string name="comingSoon">قريبا</string>
+
+    <string name="settingapplicationandacount">إعدادات التطبيق و الحساب</string>
+
+    <string name="passReq">كلمة المرور مطلوبة !</string>
+
+    <string-array name="Gender_Array">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="type_sale">
+        <item>For Rent</item>
+        <item>For Sale</item>
+    </string-array>
+
+    <string-array name="type_item">
+        <item>Apartment</item>
+        <item>Villa</item>
+        <item>Floor</item>
+        <item>Farm</item>
+        <item>Office</item>
+        <item>Shops</item>
+        <item>Stores</item>
+        <item>Land</item>
+    </string-array>
+
+    <string-array name="City_Array">
+        <item>Amman</item>
+        <item>Zarqa</item>
+        <item>Irbid</item>
+        <item>Aqaba</item>
+        <item>as-Salt</item>
+        <item>Jerash</item>
+        <item>Ma'an</item>
+        <item>at-Tafila</item>
+        <item>al-Mafraq</item>
+        <item>al-Karak</item>
+        <item>Ajloun</item>
+    </string-array>
+
+
+</resources>
+

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.gp2.omar.aqarcom.Filter_Result">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/this_item_s_for_another_customer"
+        android:textAlignment="center"
+        android:textColor="@android:color/holo_red_light"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/your_items_will_not_show_for_you"
+        android:textAlignment="center"
+        android:textColor="@android:color/holo_red_light"/>
+
+    <TextView
+        android:id="@+id/textNotFound"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_marginTop="100sp"
+        android:fontFamily="casual"
+        android:text="@string/no_item_found"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:visibility="gone"
+        />
+
+    <ListView
+        android:id="@+id/filter_list_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible"/>
+
+</LinearLayout>
